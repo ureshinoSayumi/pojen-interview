@@ -1,8 +1,8 @@
 <template>
   <div>
-    <Header></Header>
-    <SideNav></SideNav>
-    <Animation></Animation>
+    <Header />
+    <SideNav />
+    <Animation />
   </div>
 </template>
 
